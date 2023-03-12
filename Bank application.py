@@ -116,10 +116,7 @@ def login():
         else:
             print("Option is invalid, back to main menu")
             login()
-
-    
-
-
+            
     else:
         print("Enter of your username or pin is wrong, Did you creat your account ")
         list1 = ["1-yes","2-no"]
